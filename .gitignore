@@ -123,3 +123,6 @@ features/.pytest_cache
 *.npy
 *.html
 *.prj
+*.xml
+*.sbx
+*.sbn
