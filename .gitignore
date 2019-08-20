@@ -114,3 +114,12 @@ ENV/
 # pytest
 .pytest_cache/
 features/.pytest_cache
+*.shx
+*.shp
+*.dbf
+*.tiff
+*.cpg
+*.pkl
+*.npy
+*.html
+*.prj
